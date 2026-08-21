@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=220&section=header&text=Sushrith%20Kandagatla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AIML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Research%20Intern&descAlignY=55&descSize=18" />
+<img width="100%" src="https://raw.githubusercontent.com/SushrithKbtech/SushrithKbtech/main/hero-banner.svg" />
 
 <a href="https://www.linkedin.com/in/sushrith-kandagatla-9751572a6/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -52,6 +52,34 @@ I'm a B.Tech CSE (AI/ML) student at RV University, Bengaluru, building real-worl
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+## Research Spotlight
+
+```
+$ ./eibp_mnlr --topology 13-node --testbed FABRIC
+
+  Protocol            : EIBP/MNLR (hierarchical label-based routing, OSPF alternative)
+  Hard failure conv.  : 7ms  – 46ms    (sub-50ms)
+  Soft failure conv.  : 1.6s – 3.3s    (Hello/Dead timer governed)
+  Optimization        : piggyback-hello suppression → verified 0 false dead-timer
+                         declarations across all 13 nodes
+  Status              : ongoing — reducing control overhead, interrupt-driven
+                         failure detection, advised by Prof. Nirmala (RIT, USA)
+```
+
+<br/>
+
+## By the Numbers
+
+<div align="center">
+
+| 🏆 8th / 15,000+ | 🎯 98.12% | ⚡ 7ms | 📄 1 |
+|:---:|:---:|:---:|:---:|
+| HCL GUVI AI Summit teams | IDS detection accuracy | fastest EIBP failure convergence | published research paper |
 
 </div>
 
