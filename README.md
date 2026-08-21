@@ -59,7 +59,19 @@ I'm a B.Tech CSE (AI/ML) student at RV University, Bengaluru, building real-worl
 
 ## Research Spotlight
 
-OSPF, the standard used for routing within most networks today, relies on every router flooding link-state information across the whole network and each node independently computing shortest paths — this works, but it doesn't scale gracefully as networks grow, and it wastes bandwidth on control traffic. As part of my research internship, I'm working on **EIBP/MNLR**, a hierarchical label-based routing protocol built as a lighter-weight alternative: instead of full link-state flooding, nodes are organized into tiers and routes are resolved through compact labels, cutting down on control overhead while still recovering from failures fast — hard failures converge in as little as 7ms on the FABRIC testbed. The work is ongoing, advised by Prof. Nirmala at RIT, USA.
+```
+$ ./eibp_mnlr --info
+
+  Protocol     : EIBP/MNLR — hierarchical, label-based routing protocol
+  Motivation   : OSPF relies on network-wide link-state flooding, which
+                 doesn't scale gracefully and burns bandwidth on control
+                 traffic as networks grow
+  Approach     : nodes organized into tiers, routes resolved via compact
+                 labels instead of full link-state exchange — lighter
+                 control overhead, fast recovery from link/node failures
+  Testbed      : FABRIC (distributed multi-node research network)
+  Status       : ongoing
+```
 
 <br/>
 
