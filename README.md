@@ -3,13 +3,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=220&section=header&text=Sushrith%20Kandagatla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AIML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Research%20Intern&descAlignY=55&descSize=18" />
 
 <a href="https://www.linkedin.com/in/sushrith-kandagatla-9751572a6/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sushrithk.btech23@rvu.edu.in">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://portfolio-2-pi-taupe.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br/>
@@ -133,6 +133,20 @@ Hierarchical label-based routing protocol built as an alternative to OSPF, teste
 </a>
 
 **[portfolio-2-pi-taupe.vercel.app](https://portfolio-2-pi-taupe.vercel.app/)** — the full picture: all projects, write-ups, and case studies in one place.
+
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SushrithKbtech/SushrithKbtech/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SushrithKbtech/SushrithKbtech/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/SushrithKbtech/SushrithKbtech/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
