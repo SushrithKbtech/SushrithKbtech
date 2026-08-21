@@ -154,8 +154,8 @@ Hierarchical label-based routing protocol built as an alternative to OSPF, teste
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SushrithKbtech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=2563EB&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SushrithKbtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SushrithKbtech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=2563EB&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushrithKbtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&text_color=c9d1d9" />
 
 <br/>
 
