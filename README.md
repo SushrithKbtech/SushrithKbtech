@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/SushrithKbtech/SushrithKbtech/main/hero-banner.svg" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/SushrithKbtech/SushrithKbtech@main/hero-banner.svg" />
 
 <a href="https://www.linkedin.com/in/sushrith-kandagatla-9751572a6/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -59,17 +59,7 @@ I'm a B.Tech CSE (AI/ML) student at RV University, Bengaluru, building real-worl
 
 ## Research Spotlight
 
-```
-$ ./eibp_mnlr --topology 13-node --testbed FABRIC
-
-  Protocol            : EIBP/MNLR (hierarchical label-based routing, OSPF alternative)
-  Hard failure conv.  : 7ms  – 46ms    (sub-50ms)
-  Soft failure conv.  : 1.6s – 3.3s    (Hello/Dead timer governed)
-  Optimization        : piggyback-hello suppression → verified 0 false dead-timer
-                         declarations across all 13 nodes
-  Status              : ongoing — reducing control overhead, interrupt-driven
-                         failure detection, advised by Prof. Nirmala (RIT, USA)
-```
+OSPF, the standard used for routing within most networks today, relies on every router flooding link-state information across the whole network and each node independently computing shortest paths — this works, but it doesn't scale gracefully as networks grow, and it wastes bandwidth on control traffic. As part of my research internship, I'm working on **EIBP/MNLR**, a hierarchical label-based routing protocol built as a lighter-weight alternative: instead of full link-state flooding, nodes are organized into tiers and routes are resolved through compact labels, cutting down on control overhead while still recovering from failures fast — hard failures converge in as little as 7ms on the FABRIC testbed. The work is ongoing, advised by Prof. Nirmala at RIT, USA.
 
 <br/>
 
