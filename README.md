@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+that+explain+themselves;RAG+%7C+LLMs+%7C+Multi-Agent+Orchestration;Researching+routing+protocols+on+the+FABRIC+testbed;Turning+ideas+into+deployed%2C+working+products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=680&lines=%C2%A0Building+agentic+AI+systems+that+explain+themselves;%C2%A0RAG+%7C+LLMs+%7C+Multi-Agent+Orchestration;%C2%A0Researching+routing+protocols+on+the+FABRIC+testbed;%C2%A0Turning+ideas+into+deployed%2C+working+products" />
 
 </div>
 
@@ -137,8 +137,6 @@ Hierarchical label-based routing protocol built as an alternative to OSPF, teste
 </div>
 
 <br/>
-
-## Contribution Snake
 
 <div align="center">
 
