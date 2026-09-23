@@ -8,7 +8,7 @@
 <a href="mailto:sushrithk.btech23@rvu.edu.in">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://portfolio-2-pi-taupe.vercel.app/">
+<a href="https://portfolio-3-beta-gray.vercel.app/">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
