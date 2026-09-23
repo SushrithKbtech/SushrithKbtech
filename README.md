@@ -191,7 +191,7 @@ Hierarchical label-based routing protocol built as an alternative to OSPF, teste
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:2563EB,100:06B6D4&height=90&text=View%20My%20Full%20Portfolio%20%E2%86%92&fontSize=24&fontColor=ffffff&fontAlignY=55" />
 </a>
 
-**[portfolio-2-pi-taupe.vercel.app](https://portfolio-2-pi-taupe.vercel.app/)** — the full picture: all projects, write-ups, and case studies in one place.
+**[Porfolio](https://portfolio-3-beta-gray.vercel.app/)** — the full picture: all projects, write-ups, and case studies in one place.
 
 </div>
 
